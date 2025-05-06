@@ -1,0 +1,5 @@
+ls
+git status
+git add .
+git commit -m "any msg"
+git push origin main
